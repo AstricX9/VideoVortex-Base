@@ -1,2 +1,2 @@
 # VideoVortex-Base
-Base code for VideoVortex.top
+Base code for https://videovortex.top
